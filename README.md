@@ -1,5 +1,4 @@
 # KooK-CSGO-Server-Bot-Base-Python
-<br />
 🤖KooK CSGO服务器机器人🤖
 ![Language](https://img.shields.io/badge/language-python-green.svg?style=plastic)
 ![License](https://img.shields.io/badge/license-GPL-orange.svg?style=plastic)
